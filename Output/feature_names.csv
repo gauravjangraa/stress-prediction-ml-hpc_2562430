@@ -1,0 +1,18 @@
+feature
+age
+daily_screen_time_hours
+phone_usage_before_sleep_minutes
+sleep_duration_hours
+caffeine_intake_cups
+physical_activity_minutes
+notifications_received_per_day
+mental_fatigue_score
+gender_Male
+gender_Other
+occupation_Doctor
+occupation_Freelancer
+occupation_Manager
+occupation_Researcher
+occupation_Software Engineer
+occupation_Student
+occupation_Teacher
